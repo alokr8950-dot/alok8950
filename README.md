@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alok8950/alok8950/main/banner.png" />
+  <img src="banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
@@ -29,7 +29,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok8950&show_icons=true&theme=tokyonight" />
+  ## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alok8950)
 </p>
 
 ---
