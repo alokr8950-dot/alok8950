@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok8950&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/alok8950/alok8950/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok8950&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alok8950&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
