@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alok8950/alok8950/main/banner.png" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok8950&theme=tokyonight" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
